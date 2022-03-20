@@ -5,10 +5,15 @@
 
 I welcome the pioneer and hope to develop further.
 
+## Version 1.1.321644 ([raw](https://pkg.owop.xyz/moonless/moonl.x11_321644.js))
+
+- Changed the markdown parser.
+- Images in light/dark mode are applied according to the browser theme.
+
 ## Version 1.1 ([raw](https://pkg.owop.xyz/moonless/moonl.x11.js))
 
 - Removed shadow effect because it smears on mobile device.
-- Now depending on the browser language the page language will also change.[^1]
+- Now depending on the browser language the page language will also change.[^lang]
 - Turned off 'Recently Viewed', which unable to use yet.
 
 ## Version 1.0 ([raw](https://pkg.owop.xyz/moonless/moonl.x10.js))
@@ -25,7 +30,7 @@ I welcome the pioneer and hope to develop further.
 
 - **Configuration**:
   - __version: Returns the version of the current framework as a string value.
-  - init(): The framework dynamically adds the components for it to work.[^2]
+  - init(): The framework dynamically adds the components for it to work.[^warn-loader]
 
-[^1]: It will be stored in the **`u9pi/u9pi.github.io/language`** directory for future updates.
-[^2]: But without the loader the work will be cancelled
+[^lang]: It will be stored in the **`u9pi/u9pi.github.io/language`** directory for future updates.
+[^warn-loader]: But without the loader the work will be cancelled
