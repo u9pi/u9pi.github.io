@@ -5,18 +5,24 @@
 
 I welcome the pioneer and hope to develop further.
 
-## Version 1.1.321644 ([raw](https://pkg.owop.xyz/moonless/moonl.x11_321644.js))
+# Update Status
+
+## 1.1.3211349 ([raw](https://pkg.owop.xyz/moonless/moonl.x11_3211349.js))
+
+- Fixed an issue where you were trying to check for marked rather than markdown-it.
+
+## 1.1.321644 ([raw](https://pkg.owop.xyz/moonless/moonl.x11_321644.js))
 
 - Changed the markdown parser.
 - Images in light/dark mode are applied according to the browser theme.
 
-## Version 1.1 ([raw](https://pkg.owop.xyz/moonless/moonl.x11.js))
+## 1.1 ([raw](https://pkg.owop.xyz/moonless/moonl.x11.js))
 
 - Removed shadow effect because it smears on mobile device.
 - Now depending on the browser language the page language will also change.[^lang]
 - Turned off 'Recently Viewed', which unable to use yet.
 
-## Version 1.0 ([raw](https://pkg.owop.xyz/moonless/moonl.x10.js))
+## 1.0 ([raw](https://pkg.owop.xyz/moonless/moonl.x10.js))
 
 ### Moonless-Loader 1.1.316
 
