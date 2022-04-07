@@ -7,6 +7,13 @@ I welcome the pioneer and hope to develop further.
 
 # Update Status
 
+## 1.3 ([raw](https://pkg.owop.xyz/moonless/moonl.x13.js))
+
+- Page loads slightly faster.
+- Access via the web address is stable and usually error-free.
+- In the **loader**, the script related to app mount has been modified.
+- The **framework** also changed the rules for style map.
+
 ## 1.2 ([raw](https://pkg.owop.xyz/moonless/moonl.x12.js))
 
 - Access is possible through the address bar.
