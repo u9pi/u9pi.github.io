@@ -4,6 +4,11 @@ I welcome the pioneer and hope to develop further.
 
 # Update Status
 
+## 1.4 ([raw](https://pkg.owop.xyz/moonless/moonl.x14.js))
+
+- Decided to disable the SVT for a long time.
+- Fixed some errors.
+
 ## 1.3 ([raw](https://pkg.owop.xyz/moonless/moonl.x13.js))
 
 - Page loads slightly faster.
