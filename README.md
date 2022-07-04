@@ -1,8 +1,5 @@
 # u9pi.github.io
 
-<a href="https://github.com/u9pi/u9pi#gh-light-mode-only"><img width="46%" src="https://pkg.owop.xyz/pioneer/ql.png"></a>
-<a href="https://github.com/u9pi/u9pi#gh-dark-mode-only"><img width="46%" src="https://pkg.owop.xyz/pioneer/x0.png"></a>
-
 I welcome the pioneer and hope to develop further.
 
 # Update Status
